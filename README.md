@@ -35,4 +35,4 @@ manhattan(data, chr="CHR", bp="BP", p="P", main="Manhattan Plot of MSA")
 
 This code creates a basic Manhattan plot using random data. You'll need to replace the example data with your actual MSA data and calculated significance values.
 
-If you need more detailed guidance or have specific questions about any of these steps, feel free to ask!
+
